@@ -4,5 +4,5 @@ class Teacher < User
 
 def teach 
   #{KNOWLEDGE.sample(3)}\n\n
-  
+end
 end
